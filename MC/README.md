@@ -16,6 +16,10 @@ fit.py
   
 This will fit the previous result with a Gaussian function.
 
+plots.pdf
+
+The fitting result.
+
 ## Reconstruction of ttpair mass
 tt.py
 
