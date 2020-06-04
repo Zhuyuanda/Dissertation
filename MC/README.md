@@ -16,7 +16,7 @@ This will creat a h.root file containing the reconstructed Higgs mass.
   
 This will fit the previous result with a Gaussian function.
 
-### plots.pdf
+### plot_H.pdf
 
 The fitting result.
 
@@ -28,11 +28,6 @@ The fitting result.
 This will creat a tt.root file containing the reconstructed tt pair mass.
 
 
-### plots1.pdf
-
-The fitting result with (-met_x, -met_y, 0, -Et)
-
-
-### plots2.pdf
+### plot_tt.pdf
 
 The fitting result with (-met_x, -met_y, 0, Et)
