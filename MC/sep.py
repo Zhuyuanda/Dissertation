@@ -14,16 +14,16 @@ inFile = ROOT . TFile . Open ( inFileName , " READ " )
 tree = inFile . Get ( "ttHyyTree" )
 
 # creat 4 empty hist
-t1 = ROOT . TH1D ( "tlvb" ," m_{t->lvb} , data " ,150 ,0 ,1500 )
+t1 = ROOT . TH1D ( "tlvb" ," m_{t->lvb} , data " ,150 ,0 ,600 )
 t1 . Sumw2 ()
 
-t2 = ROOT . TH1D ( "tqqb" ," m_{t->qqb} , data " ,150 ,0 ,1500 )
+t2 = ROOT . TH1D ( "tqqb" ," m_{t->qqb} , data " ,150 ,0 ,600 )
 t2 . Sumw2 ()
 
-w1 = ROOT . TH1D ( "wlv" ," m_{w->lv} , data " ,150 ,0 ,1500 )
+w1 = ROOT . TH1D ( "wlv" ," m_{w->lv} , data " ,150 ,0 ,600 )
 w1 . Sumw2 ()
 
-w2 = ROOT . TH1D ( "wqq" ," m_{w->qq} , data " ,150 ,0 ,1500 )
+w2 = ROOT . TH1D ( "wqq" ," m_{w->qq} , data " ,150 ,0 ,600 )
 w2 . Sumw2 ()
 
 
