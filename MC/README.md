@@ -27,7 +27,18 @@ The fitting result.
   
 This will creat a tt.root file containing the reconstructed tt pair mass.
 
-
 ### plot_tt.pdf
 
 The fitting result with (-met_x, -met_y, 0, Et)
+
+### sep.py
+
+Reconstruct 2 tops and 2 W bosons seperately
+
+### tlvb.pdf
+
+Fitting result for t -> Wb -> lvb
+
+### wlv.pdf
+
+Fitting result for W -> lv
