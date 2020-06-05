@@ -20,25 +20,10 @@ This will fit the previous result with a Gaussian function.
 
 The fitting result.
 
-## Reconstruction of ttpair mass
-### tt.py
+## Reconstruction of W and top
+### transverse mass.ipynb
 
-  python2 tt.py ttH.root tt.root
-  
-This will creat a tt.root file containing the reconstructed tt pair mass.
+A jupyter notebook for reconstructing transverse masses of 2 tops and 2 W bosons. 
 
-### plot_tt.pdf
-
-The fitting result with (-met_x, -met_y, 0, Et)
-
-### sep.py
-
-Reconstruct 2 tops and 2 W bosons seperately
-
-### tlvb.pdf
-
-Fitting result for t -> Wb -> lvb
-
-### wlv.pdf
-
-Fitting result for W -> lv
+Results are:
+wlv.png, wlvb.png, wqq.png and wqqb.png
