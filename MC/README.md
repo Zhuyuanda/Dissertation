@@ -28,6 +28,6 @@ A jupyter notebook for reconstructing transverse masses of 2 tops and 2 W bosons
 Results are:
 wlv.png, wlvb.png, wqq.png and tqqb.png
 
-### variables.ipynb
+### 12 variables.ipynb
 
 A jupyter notebook for reconstructing variables from the paper. 
