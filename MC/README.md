@@ -30,7 +30,11 @@ wlv.png, wlvb.png, wqq.png and tqqb.png
 
 ### 12 variables.ipynb
 
-A jupyter notebook for reconstructing variables from the paper. 
+A jupyter notebook for reconstructing variables from the paper.
+
+### 12 variables (no boost).ipynb
+
+No frame of reference changing is applied in this notebook. The result seems to be more symmetric and close to the paper.
 
 ### 12 variables (big).ipynb
 
