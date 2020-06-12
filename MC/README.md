@@ -20,7 +20,7 @@ This will fit the previous result with a Gaussian function.
 
 The fitting result.
 
-## Reconstruction of W and top
+## Reconstruction of mass and angle variables
 ### transverse mass.ipynb
 
 A jupyter notebook for reconstructing transverse masses of 2 tops and 2 W bosons. 
