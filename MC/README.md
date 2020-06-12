@@ -32,6 +32,6 @@ wlv.png, wlvb.png, wqq.png and tqqb.png
 
 A jupyter notebook for reconstructing variables from the paper. 
 
-### 12 variables.ipynb
+### 12 variables (big).ipynb
 
 Same reconstruction code applying on bigger MC data. 
