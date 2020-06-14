@@ -42,4 +42,4 @@ Same reconstruction code applying on bigger MC data.
 
 ### 12 variables (combine).ipynb
 
-Combined result for the reconstruction of 12 variables from signal and background MC data. The background data is further divided into sidebands and near signal region. The result is saved as combine.pdf . 
+Combined result for the reconstruction of 12 variables from signal and background MC data. The background data is further divided into sidebands and near signal region. The result can be seen from 'combine.pdf'. 
