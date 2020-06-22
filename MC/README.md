@@ -43,3 +43,7 @@ Same reconstruction code applying on bigger MC data.
 ### 12 variables (combine).ipynb
 
 Combined result for the reconstruction of 12 variables from signal and background MC data. The background data is further divided into sidebands and near signal region. The result can be seen from 'combine.pdf'. 
+
+### alpha.ipynb
+
+Combined result for the reconstruction of 12 variables from MC data with CP mixing angles equal to 0, 30 and 60. The result can be seen from 'alpha.pdf'. 
