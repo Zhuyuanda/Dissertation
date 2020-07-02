@@ -4,7 +4,7 @@
 
 Neural network classifiers for signal vs. background / different cp alpha
 
-## NN.ipynb
+## NN_raw.ipynb
 
 Using raw kinematic variables
 
